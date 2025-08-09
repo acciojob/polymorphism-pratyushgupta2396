@@ -1,4 +1,4 @@
-package com.driver;
+package com.driver; 
 
 public class Main {
   // Task 1: Create a class product inside Main class !!!
