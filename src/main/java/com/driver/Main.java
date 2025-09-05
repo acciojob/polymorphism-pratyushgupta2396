@@ -1,4 +1,4 @@
-package com.driver;
+package com.driver; 
 
 public class Main {
   // Task 1: Create a class product inside Main class !!!
@@ -7,7 +7,7 @@ public class Main {
       return x*y;
     }
     public int product(int x, int y, int z){
-      return x*y*z;
+      return x*y*z;  
     }
     public double product(double x, double y){
       return x*y;
